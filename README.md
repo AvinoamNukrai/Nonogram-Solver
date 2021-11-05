@@ -1,2 +1,6 @@
 # Nonogram-Solver
-Software that solves the Nanogram game in the most efficient way and time
+
+The next project is a solution for Nonogram game boards.
+The solution is implemented very efficiently by the Backtracking method.
+
+Enjoy!
