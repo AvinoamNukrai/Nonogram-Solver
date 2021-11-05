@@ -1,15 +1,10 @@
-###############################################################################
 
-# Ex: Ex8 intro2cs 2020 Hebrew University - Nonogram.
-# Login: avinoam_nukrai
-# Name: Avinoam Nukrai
-# ID: 206997132
 # Description: The next project is a solution for Nonogram game boards.
 # The solution is implemented very efficiently - Backtracking. Enjoy!
 
 ###############################################################################
 
-# IMPORT
+# IMPORTS
 import math
 
 # GLOBALS
